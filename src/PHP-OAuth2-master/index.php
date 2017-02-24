@@ -1,4 +1,5 @@
-<?php
+<?php 
+
 /**
  * Plugin Name: PHP-OAuth2 Protocol Wrapper
  * Plugin URI: https://github.com/wlcdesigns/PHP-OAuth2

@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "php-oauth2": "src"
+            "PHPOAuth2": "src"
         }
     }
 }
