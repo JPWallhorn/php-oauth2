@@ -2,7 +2,6 @@
     "name": "jpwallhorn/php-oauth2",
     "description": "php-oauth2",
     "type": "wordpress-plugin",
-    "version" : "0.6",
     "authors": [
         {
             "name": "JP Wallhorn"

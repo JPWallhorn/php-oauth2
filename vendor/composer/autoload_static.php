@@ -21,9 +21,9 @@ class ComposerStaticInite3def97392f3df309a84387f92c53edc
     );
 
     public static $prefixesPsr0 = array (
-        'P' => 
+        'C' => 
         array (
-            'PHPOAuth2' => 
+            'Curl' => 
             array (
                 0 => __DIR__ . '/../..' . '/src',
             ),
