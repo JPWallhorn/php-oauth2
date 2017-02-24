@@ -1,0 +1,20 @@
+{
+    "name": "jpwallhorn/php-oauth2",
+    "description": "php-oauth2",
+    "type": "wordpress-plugin",
+    "version" : "0.5",
+    "authors": [
+        {
+            "name": "JP Wallhorn"
+        }
+    ],
+    "require"    : {
+        "composer/installers": "*"
+
+    },
+    "autoload": {
+        "psr-0": {
+            "php-oauth2": "src"
+        }
+    }
+}
