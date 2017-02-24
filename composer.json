@@ -2,7 +2,7 @@
     "name": "jpwallhorn/php-oauth2",
     "description": "php-oauth2",
     "type": "wordpress-plugin",
-    "version" : "0.5",
+    "version" : "0.6",
     "authors": [
         {
             "name": "JP Wallhorn"
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "PHPOAuth2": "src"
+            "Curl": "src/"
         }
     }
 }
